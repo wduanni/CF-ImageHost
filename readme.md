@@ -1,8 +1,6 @@
 # 🌌 Cloudflare 免费轻量直链图床
 
-基于 Cloudflare 生态构建的轻量级直链图床，支持后台管理面板，兼顾高效、稳定与免费。
-
-![界面](https://img.wduanni.cc/035aecf57e84.png)
+基于 Cloudflare 生态构建的轻量级直链图床，支持后台管理面板，高效、稳定与免费。
 
 ---
 
